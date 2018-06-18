@@ -1,2 +1,2 @@
 # Data-structures-
-Simple implementation of datastructures
+Simple C++ implementation of datastructures
